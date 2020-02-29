@@ -1,14 +1,20 @@
 # SafeStreets
 
-We are using collaborative Google Doc files for the creation of the RASD and the DD, the documents with all the latest changes can be found at these links:
+<img src="https://raw.githubusercontent.com/Desno365/SafeStreets-ing-sw-2-project/master/Implementation/SafeStreetsApp/app/src/main/res/drawable/ic_launcher.png" width="250" height="250"></img>
 
-## RASD - Requirement analysis and specification document
-https://drive.google.com/open?id=1CBsMZ8Gdj3NCnGjpzmdSQ2zPjetc_L_YsSlyMpWNy6w
+## User Application
+The .apk of the Android application can be downloaded from here:
+https://github.com/Marchingegno/MarcerMarchiscianaMotta/releases/download/Android-1.0.1/SafeStreets_1.0.1.apk
 
-## DD - Design document
-https://docs.google.com/document/d/1CaygP79kSGGhhu8kQA4cvQd8f2xsDiUF21gPHZdtfSQ
+## Municipality Web Interface
+The SafeStreets municipality interface is available at this address:
+https://safestreets-project.web.app/
 
-## ITD - Implementation and test deliverable
-https://drive.google.com/open?id=1MO-Y58Ukl1ekwW0RxP4KA-5JWth55yryZr82Zq4y9yM
+## Grade
+This project was made for the course: "Software Engineering 2" at "Politecnico di Milano", Academic Year 2019/2020.<br>
+Grade: 30.
 
-The final version of the documents can be found in "DeliveryFolder".
+## Developers
+- Matteo Marchisciana (https://github.com/Marchingegno)
+- Dennis Motta (https://github.com/Desno365)
+- Andrea Marcer (https://github.com/AndreaMarcer)
