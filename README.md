@@ -12,7 +12,7 @@ https://safestreets-project.web.app/
 
 ## Grade
 This project was made for the course: "Software Engineering 2" at "Politecnico di Milano", Academic Year 2019/2020.<br>
-Grade: 30.
+Grade: 30/30.
 
 ## Developers
 - Matteo Marchisciana (https://github.com/Marchingegno)
